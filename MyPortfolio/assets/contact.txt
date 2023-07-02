@@ -1,0 +1,29 @@
+<!doc type html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="discription" content="This website includes academic content and information about the educational system. It includes personal experiences. Contact information is dpszaro@my.waketech.edu">
+<meta name="keywords" content="education, science of reading, academics, research, experience, system, elementary, contact, email, Wake Tech">
+<title> Danielle Szaro Portfolio </title>
+<!--Danielle Szaro CTI 110-0001-->
+<style type= "text/css">
+body {background-color: #FFD8D9;}
+</style>
+</head>
+<h1>Contact Information</h1>
+<p><span style="font-family:'Bradley Hand ITC', 'Lucinda Calligraphy'; text-align: center;"></span></p>
+<body style="font-weight: 900; font-family: 'Bradley Hand ITC', 'Lucinda Calligraphy'; font-style: normal; font-size: medium; text-alighn:center;">
+<a href="index.html"> Home</a> <a href="about_me.html"> About Me </a> <a href="academics.html"> Academics </a> <ahref="research.html"> Research</a> <a href="previous assignment.html"> Previous Assignments/a><strong>&nbsp;</strong><span style=font-size:18px"><br><br>
+<h2> Let's chat!</h2>
+<img src="assets.yura-fresh-xezXeh_fIeU-unsplash.jpg" width="200" height="115" alt=""/><br>
+If you have questions about anything or if you want to chat about education, contact me!<br>
+<!--Photo by <a href="https://unsplash.com/@mr_fresh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yura Fresh</a> on <a href="https://unsplash.com/wallpapers/phone/cellphone?utm)source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>-->
+<p>Phone: 555-555-5555</p>
+<p>Fax: 555-555-5555</p>
+<span> <a href="mailto:dpszaro@my.waketech.edu"> Email</a><br></span>
+<!--#BeginDate format:Aml-->June 14, 2023<!--#EndDate-->
+<!--This comment is my own work and I typed everything manually, Szaro-->
+</body>
+</html>
+
+

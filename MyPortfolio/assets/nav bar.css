@@ -1,0 +1,20 @@
+@charset "utf-8";
+.nav_bar {
+    border: 2.5px outset #280444;
+    background-color: #F4E8FF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: large;
+    color: #280444;
+    text-align: center;
+    -webkit-box-shadow: 1.5px 1.5px 0px #EDD7FF;
+    box-shadow: 1.5px 1.5px 0px #EDD7FF;
+    height: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 2px;
+    border-radius: 7px;
+    padding-left: 2px;
+    text-shadow: 0 0px;
+}

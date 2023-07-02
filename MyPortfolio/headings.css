@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.list_headings {
+    color: #280244;
+    font-family: "Bradley Hand ITC", "Lucida Calligraphy";
+    font-weight: 2000;
+    font-size: 58px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 0px #5B2682;
+    font-style: normal;
+    font-variant: normal;
+}

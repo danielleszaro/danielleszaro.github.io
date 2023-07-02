@@ -1,0 +1,11 @@
+@charset "utf-8";
+whole_website {
+    color: #000000;
+    font-family: "Bradley Hand ITC", "Lucida Calligraphy";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 900;
+    font-size: large;
+    line-height: normal;
+    background-color: #FFDADB;
+}
